@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Julie
 
-<!--
-**julieacyoung/julieacyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Thinker · Builder · Educator**
 
-Here are some ideas to get you started:
+Helping humans make better decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I lead technology at **SWYTCH**, an AI-powered career transition platform that matches people to work based on what they love to do, not just what they can do.
+
+I'm also cofounder of **Human AI Partners**, where we advise leaders on AI and build the tools they need.
+
+Background across human-computer interfaces, data, product, and systems design. Most of my
+current work lives in private repos.
+
+📫 [LinkedIn](https://www.linkedin.com/in/julieacyoung) · jcyoung.va@gmail.com
