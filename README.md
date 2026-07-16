@@ -11,4 +11,4 @@ I'm also cofounder of **Human AI Partners**, where we advise leaders on AI and b
 Background across human-computer interfaces, data, product, and systems design. Most of my
 current work lives in private repos.
 
-📫 [LinkedIn](https://www.linkedin.com/in/julieacyoung) · jcyoung.va@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/julieacyoung)
